@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ignacio Rodr&#237;guez's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 1014, Total PRs: 1153, Total Issues: 202, Contributed to (last year): 78</desc>
+        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 1029, Total PRs: 1155, Total Issues: 202, Contributed to (last year): 78</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.237828828901655;
+        stroke-dashoffset: 60.13524264177273;
       }
     }
   
