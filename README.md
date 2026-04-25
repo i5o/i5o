@@ -4,4 +4,4 @@
 
 ![i5o's top languages](./profile/top-langs.svg)
 
-![i5o's Streak](https://github-readme-streak-stats.herokuapp.com/?user=i5o&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)
+![i5o's Streak](https://github-readme-streak-stats.herokuapp.com/?user=i5o&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat%2CFri)
